@@ -1,0 +1,12 @@
+dist/
+build/
+
+.env
+.env.local
+
+target/
+src-tauri/target/
+
+.DS_Store
+.vscode/
+.idea/
